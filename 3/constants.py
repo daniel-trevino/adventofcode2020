@@ -1,0 +1,5 @@
+INPUT_FILE_NAME = "input.txt"
+INPUT_FILE_TEST_NAME = "inputTest.txt"
+STEPS_RIGHT = 1
+STEPS_DOWN = 2
+TREE = "#"
